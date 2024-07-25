@@ -1,14 +1,10 @@
 #已经存在
 #WEB服务
 nginx
+openresty/openresty
 #数据库
 redis
 mysql
-
-#本次拉取
-#Web服务
-openresty/openresty
-#数据库
 mongo:4.4.18
 postgres
 influxdb
@@ -24,6 +20,9 @@ grafana/grafana
 prom/prometheus
 jenkinsci/blueocean
 jenkins/jenkins
+
+#本次拉取
+apache/airflow
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
