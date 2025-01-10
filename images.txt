@@ -1,6 +1,6 @@
 #已经存在
 #WEB服务
-nginx:1.27.2
+nginx
 openresty/openresty
 #数据库
 redis
